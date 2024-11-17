@@ -7,11 +7,7 @@
 
 ### 추가 교재 및 참고자료
 
-<details>
-<summary>영상 : [KOCW 운영체제 (반효경)](http://www.kocw.net/home/search/kemView.do?kemId=1046323) (27H)</summary>
-
-- 주요 내용이 잘 구성되어 있고 PPT가 영상에서 동시에 보이며, 전달 방법도 좋습니다.
-</details>
+영상 : [CPA310, KOREATECH, Instructor: Duksu Kim](https://www.youtube.com/watch?v=EdTtGv9w2sA&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&ab_channel=HPCLab.KOREATECH)
 
 <details>
 <summary>교재 : [그림으로 배우는 구조와 원리 운영체제(개정3판)](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791156642459)</summary>
@@ -47,4 +43,4 @@
   - 성능
   - I/O 시스템
   - 보호와 보안, 접근제어
-</details>
+  </details>
